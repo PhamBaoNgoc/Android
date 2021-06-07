@@ -1,0 +1,2 @@
+rootProject.name = "Ass04ListView"
+include ':app'
